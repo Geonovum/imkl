@@ -1,0 +1,9 @@
+{
+	"title": "Informatiemodel Kabels en Leidingen",
+	"description": "IMKL is de opvolger van IMKL2015. IMKL is ontwikkeld voor de realisatie van digitaal berichtenverkeer rond het thema utiliteitsnetten en de daarin voorkomende kabels, leidingen en leidingelementen voor de realisatie van een aantal wetten en regelingen. Met name de wet WIBON en de Europese regeling INSPIRE en daarin het thema Utility Networks zijn bepalend.
+Platform voor opmerkingen en meedenken op:  https://github.com/Geonovum/imkl2015-review",
+	"sub_standards": {
+		"informatiemodel": "UML informatiemodellen (*.EAP of *.XMI). UML modellen worden hier aangeboden voor technische doeleinden zoals het genereren van schema's/code of het hergebruiken van entiteiten uit elkaars informatiemodel.",
+		"gmlapplicatieschema": "GML application schemas: XML schema's die een valide extensie van GML zijn."
+	}
+}
