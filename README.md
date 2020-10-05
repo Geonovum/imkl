@@ -1,4 +1,4 @@
-IMKL
+IMKL (vanaf versie 2.0)
 ====
 
 IMKL is de opvolger van IMKL2015. IMKL is ontwikkeld voor de realisatie van
