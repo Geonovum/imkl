@@ -1,0 +1,6 @@
+Versie info:
+
+
+2025-06-16: imkl-wibon-3.0 : schema van de vastgestelde versie
+
+2025-03-25: imkl-wibon-3.0-2025-03-25 : schema van de versie ter vaststelling

@@ -1,0 +1,6 @@
+Versie info:
+
+
+2025-06-18: imkl_v3.0.0-vastgesteld-20250618.eap : UML-EAP  van de vastgestelde versie
+
+2025-03-25: imkl_v3.0.0-def-20250325.eap : UML-EAP van de versie ter vaststelling

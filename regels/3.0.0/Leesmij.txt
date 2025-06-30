@@ -1,0 +1,6 @@
+Versie info:
+
+
+2025-06-16: IMKL-ExtraRegels-3.0 : Extra regels van de de vastgestelde versie
+
+2025-03-25: iIMKL-ExtraRegels-3.0-2025-03-25 : Extra regels van de versie ter vaststelling
